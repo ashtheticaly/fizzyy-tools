@@ -1,0 +1,902 @@
+[
+ {
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "cat": "writing",
+  "url": "https://chatgpt.com/",
+  "pricing": "Freemium",
+  "pop": 98,
+  "desc": "AI chat assistant from OpenAI for drafting, editing and brainstorming text.",
+  "features": [
+   "Chat-based drafting and rewriting",
+   "Summarizing and brainstorming",
+   "Follow-up questions"
+  ],
+  "pros": [
+   "Flexible for many writing tasks",
+   "Easy to start"
+  ],
+  "limits": [
+   "Free plan has usage limits",
+   "Can state incorrect facts, so check important claims"
+  ],
+  "uses": [
+   "Blog drafts",
+   "Email rewrites",
+   "Idea generation"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "claude",
+  "name": "Claude",
+  "cat": "writing",
+  "url": "https://claude.ai/",
+  "pricing": "Freemium",
+  "pop": 95,
+  "desc": "AI assistant from Anthropic for writing, analysis and working with long documents.",
+  "features": [
+   "Drafting and editing text",
+   "Summarizing uploaded documents",
+   "Conversational follow-ups"
+  ],
+  "pros": [
+   "Handles long documents well",
+   "Clear, natural writing"
+  ],
+  "limits": [
+   "Free plan has usage limits",
+   "Can make mistakes, so verify key facts"
+  ],
+  "uses": [
+   "Reports and summaries",
+   "Editing drafts",
+   "Brainstorming"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "grammarly",
+  "name": "Grammarly",
+  "cat": "writing",
+  "url": "https://www.grammarly.com/",
+  "pricing": "Freemium",
+  "pop": 92,
+  "desc": "Writing assistant that checks grammar, spelling, clarity and tone.",
+  "features": [
+   "Grammar and spelling checks",
+   "Tone and clarity suggestions",
+   "Browser and app integrations"
+  ],
+  "pros": [
+   "Works where you already write",
+   "Free plan covers basic checks"
+  ],
+  "limits": [
+   "Advanced suggestions need a paid plan",
+   "Suggestions can miss context"
+  ],
+  "uses": [
+   "Emails",
+   "Essays",
+   "Professional documents"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "quillbot",
+  "name": "QuillBot",
+  "cat": "writing",
+  "url": "https://quillbot.com/",
+  "pricing": "Freemium",
+  "pop": 82,
+  "desc": "Paraphrasing and writing tool with grammar checking and summarizing.",
+  "features": [
+   "Paraphrasing",
+   "Grammar checker",
+   "Summarizer"
+  ],
+  "pros": [
+   "Quick rewording",
+   "Free tier available"
+  ],
+  "limits": [
+   "Free tier has word limits",
+   "Rewrites need human review"
+  ],
+  "uses": [
+   "Rewording drafts",
+   "Summarizing articles",
+   "Students and non-native writers"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "jasper",
+  "name": "Jasper",
+  "cat": "writing",
+  "url": "https://www.jasper.ai/",
+  "pricing": "Paid",
+  "pop": 75,
+  "desc": "AI platform for marketing teams to create on-brand copy.",
+  "features": [
+   "Marketing copy generation",
+   "Brand voice settings",
+   "Team collaboration"
+  ],
+  "pros": [
+   "Built for marketing workflows",
+   "Team features"
+  ],
+  "limits": [
+   "Paid plans (check the site for any trial)",
+   "Costs more than general chat assistants"
+  ],
+  "uses": [
+   "Ad copy",
+   "Social posts",
+   "Marketing teams"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "midjourney",
+  "name": "Midjourney",
+  "cat": "image",
+  "url": "https://www.midjourney.com/",
+  "pricing": "Paid",
+  "pop": 94,
+  "desc": "AI image generator known for stylized, artistic images.",
+  "features": [
+   "Text-to-image generation",
+   "Style and variation controls",
+   "Community gallery"
+  ],
+  "pros": [
+   "Distinctive visual quality",
+   "Active community"
+  ],
+  "limits": [
+   "Paid subscription (check the site for current plans)",
+   "Learning curve for prompts"
+  ],
+  "uses": [
+   "Concept art",
+   "Illustrations",
+   "Mood boards"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "leonardo",
+  "name": "Leonardo.Ai",
+  "cat": "image",
+  "url": "https://leonardo.ai/",
+  "pricing": "Freemium",
+  "pop": 84,
+  "desc": "AI image generation platform for art, game assets and design concepts.",
+  "features": [
+   "Text-to-image",
+   "Multiple model options",
+   "Editing tools"
+  ],
+  "pros": [
+   "Free plan to start",
+   "Many styles"
+  ],
+  "limits": [
+   "Free plan has usage limits",
+   "Features change by plan"
+  ],
+  "uses": [
+   "Game assets",
+   "Concept art",
+   "Social graphics"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "ideogram",
+  "name": "Ideogram",
+  "cat": "image",
+  "url": "https://ideogram.ai/",
+  "pricing": "Freemium",
+  "pop": 80,
+  "desc": "AI image generator that aims to include readable text inside images.",
+  "features": [
+   "Text-to-image",
+   "Text rendering in images",
+   "Style options"
+  ],
+  "pros": [
+   "Useful for posters and logos with text",
+   "Free plan available"
+  ],
+  "limits": [
+   "Free plan has limits",
+   "Text results are not always perfect"
+  ],
+  "uses": [
+   "Posters",
+   "Logo ideas",
+   "Social media graphics"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "firefly",
+  "name": "Adobe Firefly",
+  "cat": "image",
+  "url": "https://firefly.adobe.com/",
+  "pricing": "Freemium",
+  "pop": 83,
+  "desc": "Adobe's generative AI for images and creative effects.",
+  "features": [
+   "Text-to-image",
+   "Generative fill and edit tools",
+   "Integration with Adobe apps"
+  ],
+  "pros": [
+   "Fits Adobe workflows",
+   "Free credits to try"
+  ],
+  "limits": [
+   "Monthly credit limits",
+   "Full access needs a paid plan"
+  ],
+  "uses": [
+   "Photo edits",
+   "Design assets",
+   "Marketing visuals"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "runway",
+  "name": "Runway",
+  "cat": "video",
+  "url": "https://runwayml.com/",
+  "pricing": "Freemium",
+  "pop": 88,
+  "desc": "AI video platform for generating and editing video clips.",
+  "features": [
+   "Text and image to video",
+   "AI editing tools",
+   "Browser-based"
+  ],
+  "pros": [
+   "Powerful creative tools",
+   "Free credits to try"
+  ],
+  "limits": [
+   "Free credits run out quickly",
+   "Short clips"
+  ],
+  "uses": [
+   "Short videos",
+   "Visual effects",
+   "Creative experiments"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "descript",
+  "name": "Descript",
+  "cat": "video",
+  "url": "https://www.descript.com/",
+  "pricing": "Freemium",
+  "pop": 81,
+  "desc": "Edit video and audio by editing the transcript.",
+  "features": [
+   "Transcript-based editing",
+   "Automatic transcription",
+   "Filler word removal"
+  ],
+  "pros": [
+   "Easy editing for non-editors",
+   "Free plan to try"
+  ],
+  "limits": [
+   "Free plan has limits",
+   "Transcription needs review"
+  ],
+  "uses": [
+   "Podcasts",
+   "Tutorial videos",
+   "Interviews"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "capcut",
+  "name": "CapCut",
+  "cat": "video",
+  "url": "https://www.capcut.com/",
+  "pricing": "Freemium",
+  "pop": 90,
+  "desc": "Video editor with AI-powered captions, effects and templates.",
+  "features": [
+   "Auto captions",
+   "Templates and effects",
+   "Mobile and web editing"
+  ],
+  "pros": [
+   "Beginner friendly",
+   "Free to start"
+  ],
+  "limits": [
+   "Some features need a paid plan",
+   "Features vary by region"
+  ],
+  "uses": [
+   "Short-form video",
+   "Social media clips",
+   "Captions"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "elevenlabs",
+  "name": "ElevenLabs",
+  "cat": "audio",
+  "url": "https://elevenlabs.io/",
+  "pricing": "Freemium",
+  "pop": 91,
+  "desc": "AI text-to-speech and voice generation platform.",
+  "features": [
+   "Text to speech",
+   "Many voices and languages",
+   "Voice tools"
+  ],
+  "pros": [
+   "Natural-sounding speech",
+   "Free plan to test"
+  ],
+  "limits": [
+   "Free plan has character limits",
+   "Voice cloning has consent rules"
+  ],
+  "uses": [
+   "Voiceovers",
+   "Audiobooks",
+   "Video narration"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "suno",
+  "name": "Suno",
+  "cat": "audio",
+  "url": "https://suno.com/",
+  "pricing": "Freemium",
+  "pop": 86,
+  "desc": "AI music generator that creates songs from text prompts.",
+  "features": [
+   "Song generation from prompts",
+   "Lyrics and vocals",
+   "Style choices"
+  ],
+  "pros": [
+   "Fun and fast",
+   "Free plan available"
+  ],
+  "limits": [
+   "Free plan limits usage and commercial rights",
+   "Results vary"
+  ],
+  "uses": [
+   "Music ideas",
+   "Background tracks",
+   "Creative projects"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "whisper",
+  "name": "Whisper",
+  "cat": "audio",
+  "url": "https://github.com/openai/whisper",
+  "pricing": "Free",
+  "pop": 78,
+  "desc": "Open-source speech recognition model from OpenAI that you can run yourself.",
+  "features": [
+   "Speech-to-text",
+   "Multilingual transcription",
+   "Open source"
+  ],
+  "pros": [
+   "Free and open source",
+   "Runs on your own machine"
+  ],
+  "limits": [
+   "Needs technical setup",
+   "Larger models need capable hardware"
+  ],
+  "uses": [
+   "Transcribing recordings",
+   "Subtitles",
+   "Developers"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "copilot",
+  "name": "GitHub Copilot",
+  "cat": "coding",
+  "url": "https://github.com/features/copilot",
+  "pricing": "Freemium",
+  "pop": 93,
+  "desc": "AI coding assistant that suggests code inside your editor.",
+  "features": [
+   "Code completion",
+   "Chat in the editor",
+   "Works in popular IDEs"
+  ],
+  "pros": [
+   "Integrates with common editors",
+   "Free tier available"
+  ],
+  "limits": [
+   "Free tier has usage limits",
+   "Suggestions need review"
+  ],
+  "uses": [
+   "Everyday coding",
+   "Learning a codebase",
+   "Boilerplate"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "cursor",
+  "name": "Cursor",
+  "cat": "coding",
+  "url": "https://cursor.com/",
+  "pricing": "Freemium",
+  "pop": 89,
+  "desc": "AI-first code editor with built-in chat and code editing.",
+  "features": [
+   "AI chat about your code",
+   "Multi-file edits",
+   "Familiar editor interface"
+  ],
+  "pros": [
+   "Deep AI integration",
+   "Free plan to try"
+  ],
+  "limits": [
+   "Free plan has limits",
+   "Generated code needs testing"
+  ],
+  "uses": [
+   "Building prototypes",
+   "Refactoring",
+   "Learning new code"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "notion",
+  "name": "Notion",
+  "cat": "productivity",
+  "url": "https://www.notion.com/",
+  "pricing": "Freemium",
+  "pop": 92,
+  "desc": "Workspace for notes, docs and projects with built-in AI features.",
+  "features": [
+   "Notes and databases",
+   "AI writing and summaries",
+   "Team collaboration"
+  ],
+  "pros": [
+   "All-in-one workspace",
+   "Free plan for individuals"
+  ],
+  "limits": [
+   "AI features may need a paid plan",
+   "Can feel complex at first"
+  ],
+  "uses": [
+   "Note-taking",
+   "Project tracking",
+   "Team wikis"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "otter",
+  "name": "Otter.ai",
+  "cat": "productivity",
+  "url": "https://otter.ai/",
+  "pricing": "Freemium",
+  "pop": 79,
+  "desc": "AI meeting assistant that records, transcribes and summarizes conversations.",
+  "features": [
+   "Live transcription",
+   "Meeting summaries",
+   "Searchable notes"
+  ],
+  "pros": [
+   "Saves time on notes",
+   "Free plan available"
+  ],
+  "limits": [
+   "Free plan has minute limits",
+   "Accuracy varies with audio quality"
+  ],
+  "uses": [
+   "Meetings",
+   "Lectures",
+   "Interviews"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "duolingo",
+  "name": "Duolingo",
+  "cat": "education",
+  "url": "https://www.duolingo.com/",
+  "pricing": "Freemium",
+  "pop": 93,
+  "desc": "Language-learning app with short, game-like lessons.",
+  "features": [
+   "Short lessons",
+   "Many languages",
+   "Progress streaks"
+  ],
+  "pros": [
+   "Free to use with ads",
+   "Easy daily habit"
+  ],
+  "limits": [
+   "Some features need a paid plan",
+   "Not a full replacement for speaking practice"
+  ],
+  "uses": [
+   "Learning a language",
+   "Daily practice",
+   "Beginners"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "quizlet",
+  "name": "Quizlet",
+  "cat": "education",
+  "url": "https://quizlet.com/",
+  "pricing": "Freemium",
+  "pop": 85,
+  "desc": "Study platform with flashcards, practice tests and learning tools.",
+  "features": [
+   "Flashcards",
+   "Practice tests",
+   "Study modes"
+  ],
+  "pros": [
+   "Large library of study sets",
+   "Free to start"
+  ],
+  "limits": [
+   "Some study tools need a paid plan",
+   "Shared sets may contain errors"
+  ],
+  "uses": [
+   "Exam prep",
+   "Vocabulary",
+   "Class review"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "hubspot",
+  "name": "HubSpot",
+  "cat": "business",
+  "url": "https://www.hubspot.com/",
+  "pricing": "Freemium",
+  "pop": 87,
+  "desc": "CRM and marketing platform with free tools and AI features.",
+  "features": [
+   "CRM",
+   "Email marketing tools",
+   "AI content assistance"
+  ],
+  "pros": [
+   "Free CRM to start",
+   "Scales with a business"
+  ],
+  "limits": [
+   "Advanced features are paid and can be costly",
+   "Many options can overwhelm new users"
+  ],
+  "uses": [
+   "Small business sales",
+   "Marketing",
+   "Customer tracking"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "zapier",
+  "name": "Zapier",
+  "cat": "business",
+  "url": "https://zapier.com/",
+  "pricing": "Freemium",
+  "pop": 88,
+  "desc": "Automation tool that connects apps and runs workflows, including AI steps.",
+  "features": [
+   "App-to-app automation",
+   "Prebuilt templates",
+   "AI steps in workflows"
+  ],
+  "pros": [
+   "No coding needed",
+   "Free plan to try"
+  ],
+  "limits": [
+   "Free plan limits tasks",
+   "Complex workflows need paid plans"
+  ],
+  "uses": [
+   "Automating repetitive tasks",
+   "Lead handling",
+   "Notifications"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "canva",
+  "name": "Canva",
+  "cat": "design",
+  "url": "https://www.canva.com/",
+  "pricing": "Freemium",
+  "pop": 96,
+  "desc": "Online design tool with templates and AI-powered features.",
+  "features": [
+   "Templates",
+   "Drag-and-drop editor",
+   "AI design tools"
+  ],
+  "pros": [
+   "Easy for beginners",
+   "Large free library"
+  ],
+  "limits": [
+   "Some assets and AI features need a paid plan",
+   "Less control than pro tools"
+  ],
+  "uses": [
+   "Social posts",
+   "Presentations",
+   "Flyers"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "figma",
+  "name": "Figma",
+  "cat": "design",
+  "url": "https://www.figma.com/",
+  "pricing": "Freemium",
+  "pop": 91,
+  "desc": "Collaborative design tool for interfaces and prototypes, with AI features.",
+  "features": [
+   "Interface design",
+   "Real-time collaboration",
+   "Prototyping"
+  ],
+  "pros": [
+   "Widely used in product design",
+   "Free plan available"
+  ],
+  "limits": [
+   "Free plan limits projects and features",
+   "Takes time to learn"
+  ],
+  "uses": [
+   "App and web design",
+   "Prototypes",
+   "Design teams"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "removebg",
+  "name": "Remove.bg",
+  "cat": "design",
+  "url": "https://www.remove.bg/",
+  "pricing": "Freemium",
+  "pop": 77,
+  "desc": "Removes image backgrounds automatically in seconds.",
+  "features": [
+   "Automatic background removal",
+   "Upload or drag and drop",
+   "API available"
+  ],
+  "pros": [
+   "Fast and simple",
+   "Free preview available"
+  ],
+  "limits": [
+   "Full-resolution downloads may require credits or a plan",
+   "Fine edges can need cleanup"
+  ],
+  "uses": [
+   "Product photos",
+   "Profile pictures",
+   "Quick edits"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "perplexity",
+  "name": "Perplexity",
+  "cat": "research",
+  "url": "https://www.perplexity.ai/",
+  "pricing": "Freemium",
+  "pop": 94,
+  "desc": "AI answer engine that responds with sources you can open.",
+  "features": [
+   "Cited answers",
+   "Follow-up questions",
+   "Web search"
+  ],
+  "pros": [
+   "Shows sources",
+   "Free to start"
+  ],
+  "limits": [
+   "Free plan has limits",
+   "Sources still need checking"
+  ],
+  "uses": [
+   "Quick research",
+   "Fact-finding",
+   "Comparing options"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "elicit",
+  "name": "Elicit",
+  "cat": "research",
+  "url": "https://elicit.com/",
+  "pricing": "Freemium",
+  "pop": 76,
+  "desc": "AI research assistant for finding and summarizing academic papers.",
+  "features": [
+   "Paper search",
+   "Paper summaries",
+   "Data extraction from papers"
+  ],
+  "pros": [
+   "Built for literature review",
+   "Free plan available"
+  ],
+  "limits": [
+   "Free plan limits usage",
+   "Summaries should be checked against the paper"
+  ],
+  "uses": [
+   "Literature reviews",
+   "Academic research",
+   "Students"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "notebooklm",
+  "name": "NotebookLM",
+  "cat": "research",
+  "url": "https://notebooklm.google/",
+  "pricing": "Freemium",
+  "pop": 85,
+  "desc": "Google tool that answers questions about documents and notes you upload.",
+  "features": [
+   "Answers based on your sources",
+   "Summaries",
+   "Audio overviews"
+  ],
+  "pros": [
+   "Grounded in your own documents",
+   "Free to start"
+  ],
+  "limits": [
+   "Usage limits apply",
+   "Availability and plans may change"
+  ],
+  "uses": [
+   "Studying",
+   "Document analysis",
+   "Research notes"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ },
+ {
+  "id": "semantic",
+  "name": "Semantic Scholar",
+  "cat": "research",
+  "url": "https://www.semanticscholar.org/",
+  "pricing": "Free",
+  "pop": 74,
+  "desc": "Free AI-powered academic search engine from the Allen Institute for AI.",
+  "features": [
+   "Academic paper search",
+   "Paper summaries",
+   "Citation information"
+  ],
+  "pros": [
+   "Free to use",
+   "Large academic coverage"
+  ],
+  "limits": [
+   "Coverage varies by field",
+   "Not every paper is open access"
+  ],
+  "uses": [
+   "Finding papers",
+   "Citation tracing",
+   "Students and researchers"
+  ],
+  "verified": null,
+  "sponsored": false,
+  "affiliate": null
+ }
+]
